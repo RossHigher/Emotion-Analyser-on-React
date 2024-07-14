@@ -1,0 +1,4 @@
+Запустить виртуальную среду venv\Scripts\activate
+Выполнить uvicorn main:app --reload
+Выполнить cd front 
+Выполнить cd npm run dev
